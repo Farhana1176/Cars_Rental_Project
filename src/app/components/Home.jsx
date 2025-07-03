@@ -71,7 +71,7 @@ export default function HomePage() {
           className="group flex items-center gap-2 bg-[#7E57C2] text-white px-6 py-2 rounded-full font-medium hover:bg-gray-700 transition-all duration-300"
         >
           <i className="fas fa-search group-hover:scale-110 transition-transform" />
-          <span className="hover:font-semibold">Search</span>
+          <span>Search</span>
         </button>
       </div>
 

@@ -25,7 +25,7 @@ export default function Navbar() {
             className="transition font-medium hover:font-semibold">
             Mybookings
           </Link>
-          <Link href="/login" className="group inline-block">
+          <Link href="/signup" className="group inline-block">
             <div className="relative flex justify-center items-center px-1.5 py-1.5 rounded-2xl bg-white
              text-[#7E57C2] font-semibold overflow-hidden transition-all duration-300 ease-in-out group-hover:bg-gray-700
               group-hover:text-white w-[100px]">
